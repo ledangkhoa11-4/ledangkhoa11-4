@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang Khoa</h1>
-<h3 align="center">I amaSoftwareEngineerwith1.5yearsofexperience and passionate about website development with a focus on cre ativity, performance, clean code, and precision. With all of my knowledge and expertise, I will make every effort to contribute to the company’s growth and aim to become a team leader in 5 years and I am eager to bring my skills to collaborative and innovative teams.</h3>
+<h3 align="center">I am a Software Engineer with 1.5 years of experience and passionate about website development with a focus on cre ativity, performance, clean code, and precision. With all of my knowledge and expertise, I will make every effort to contribute to the company’s growth and aim to become a team leader in 5 years and I am eager to bring my skills to collaborative and innovative teams.</h3>
+
+<h3 align="center">I am currently in my final year at the University of Science, majoring in Software Engineering. I’m set to graduate with honors this November.</h3>
 
 - 🌱 I’m currently learning **Ruby on rails**
 
