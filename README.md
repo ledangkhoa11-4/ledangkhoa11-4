@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://khoa-life.com/projects/](https://khoa-life.com/projects/)
 
-- 💬 Ask me about **React, Vue, GSAP**
+- 💬 Ask me about **Javascript, Typescript, NodeJS, React, Vue, GSAP, ExpressJS, NestJS**
 
 - 📫 How to reach me **(+84) 344 102 242**
 
