@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on rails**
 
-- 👨‍💻 All of my projects are available at [https://khoa-life.com/projects/](https://khoa-life.com/projects/)
+- 👨‍💻 All of my projects are available at [https://dangkhoa.tech/project/]([https://dangkhoa.tech/project/)
 
 - 💬 Ask me about **Javascript, Typescript, NodeJS, React, Vue, GSAP, ExpressJS, NestJS**
 
